@@ -9,7 +9,7 @@ fields. However, current approaches can only help in tasks where we either can
 precisely specify the objective or already have plenty of observations of
 solutions to learn from.
 
-However, important real-world problems rarely have well-specified objectives or
+Unfortunately, important real-world problems rarely have well-specified objectives or
 solutions to learn from. Instead, most problems depend on the goals and
 preferences of humans - the users - who are solving them. As a result, we need
 approaches that explicitly consider the user. We, the [Artificial agents with
