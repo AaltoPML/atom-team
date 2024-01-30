@@ -16,7 +16,7 @@ approaches that explicitly consider the user. We, the [Artificial agents with
 Theory Of Mind team of FCAI](https://fcai.fi/fcai-teams#atom), do exactly that
 by developing techniques and methods that assist users in their tasks.
 
-![AI-assistance diagram](figures/ai-assistance.png)
+![AI-assistance diagram](figures/ai-collaboration.png)
 
 For this we have developed a
 [tutorial](https://github.com/AaltoPML/ai_assistance_tutorial) where you can
